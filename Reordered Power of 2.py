@@ -1,4 +1,5 @@
 #From Leetcode Daily challenge
+#https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3679/
 ###Starting with a positive integer N, we reorder the digits in any order (including the original order) such that the leading digit is not zero.
 ###Return true if and only if we can do this in a way such that the resulting number is a power of 2.
 
